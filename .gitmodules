@@ -1,0 +1,6 @@
+[submodule "reordr.li_frontend"]
+	path = reordr.li_frontend
+	url = https://github.com/Hyferion/reordr.li_frontend
+[submodule "reordr.li_backend"]
+	path = reordr.li_backend
+	url = https://github.com/Hyferion/reordr.li_backend
